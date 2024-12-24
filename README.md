@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm Pedro
 
-<!--
-**phspeters/phspeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Where Medicine Meets Code 🩺 💻
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a medical doctor turned software engineering student, currently studying at [42 São Paulo](https://www.42sp.org.br/). My mission is to bridge the gap between healthcare and technology, creating innovative solutions that can improve people's lives worldwide.
+
+### 🔭 What I'm Currently Working On
+
+- Diving deep into the C/C++ ecosystem at 42 São Paulo
+- Exploring Python for medical data analysis and automation
+- Tinkering with my home lab setup (ask me about it!)
+
+### 💡 What Drives Me
+
+I believe the future of healthcare lies at the intersection of medicine and technology. As both a physician and a programmer, I'm uniquely positioned to understand healthcare challenges from multiple perspectives and craft meaningful solutions.
+
+### 🛠️ Tech Stack
+
+- **Languages:** C, C++, Python (learning)
+- **Interests:** Healthcare Technology, Medical Informatics, System Architecture
+- **Environment:** Linux enthusiast, Home Lab experimenter
+
+### 🌱 Always Learning
+
+As someone who thrives on continuous learning, I'm constantly exploring new technologies and approaches. Whether it's a new programming language, a medical research paper, or the latest in health tech, you'll find me eagerly absorbing knowledge.
+
+### 📫 Let's Connect
+
+Whether you're interested in healthcare technology, programming, or just want to geek out about home labs, I'd love to connect! Feel free to reach out to me here on GitHub.
