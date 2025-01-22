@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pedro
 
-> Where Medicine Meets Code 🩺 💻
+> Bridging Medicine and Technology 🩺💻
 
 ## About Me
 
