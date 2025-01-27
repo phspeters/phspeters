@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pedro
 
-> Bridging Medicine and Technology 🩺💻
+> Bridging Medicine and Technology 🩺 💻
 
 ## 👨‍💻 About Me
 
