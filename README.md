@@ -12,5 +12,5 @@ Working in healthcare opened my eyes to countless systemic challenges that techn
 
 ### 🛠️ Tech Stack
 
-- **Languages:** C, C++, Python (learning)
+- **Languages:** C, C++, Python
 - **Interests:** Healthcare Technology, Medical Informatics, Data Science, Homelab, Artificial intelligence, Web3 and Blockchain
